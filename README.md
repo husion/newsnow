@@ -1,9 +1,14 @@
 # NewsNow
+<a href="https://hellogithub.com/repository/c2978695e74a423189e9ca2543ab3b36" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=c2978695e74a423189e9ca2543ab3b36&claim_uid=SMJiFwlsKCkWf89&theme=small" alt="Featured｜HelloGitHub" /></a>
+
 ![](screenshots/preview-1.png)
 
 ![](screenshots/preview-2.png)
 
 English | [简体中文](README.zh-CN.md)
+
+> [!NOTE]
+> This project is just a demo and only supports Chinese. A formal version will be released later for better customization and the addition of more English content.
 
 ***Elegant reading of real-time and hottest news***
 
